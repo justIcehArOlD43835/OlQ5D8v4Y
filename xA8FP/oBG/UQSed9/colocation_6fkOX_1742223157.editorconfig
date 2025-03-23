@@ -543,7 +543,6 @@ generated_code = true
 [Assets/Oculus/**]
 generated_code = true
 
-[Packages/**]
 generated_code = true
 dotnet_diagnostic.IDE0005.severity = none
 
