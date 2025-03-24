@@ -1,7 +1,6 @@
 .git
 test
 Dockerfile*
-.gitignore
 .dockerignore
 .travis.yml
 *.md
