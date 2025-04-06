@@ -15,7 +15,6 @@ function setup () {
   var doc = SpreadsheetApp.getActiveSpreadsheet()
   scriptProp.setProperty('key', doc.getId())
 }
-
 function doPost (e) {
   /*
   Gets a lock that prevents any user from concurrently running a section of code. A code section
