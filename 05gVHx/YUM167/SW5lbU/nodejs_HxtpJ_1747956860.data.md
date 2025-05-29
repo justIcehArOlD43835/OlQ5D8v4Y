@@ -889,7 +889,6 @@ This functionality is considered as a fix.
 - [Maddy Miller](https://github.com/me4502)
 - [Amit Saini](https://github.com/amitsainii)
 - [ecyrbe](https://github.com/ecyrbe)
-- [Ikko Ashimine](https://github.com/eltociear)
 - [Geeth Gunnampalli](https://github.com/thetechie7)
 - [Shreem Asati](https://github.com/shreem-123)
 - [Frieder Bluemle](https://github.com/friederbluemle)
