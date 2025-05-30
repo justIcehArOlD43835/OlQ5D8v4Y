@@ -202,7 +202,6 @@
 //         // "no-spaced-func": "warn",
 //         // "no-ternary": "off",
 //         // "no-trailing-spaces": "warn",
-//         // "no-underscore-dangle": "warn",
 //         "no-unneeded-ternary": "warn",
 //         // "object-curly-spacing": [ "warn", "always" ],
 //         // "one-var": "off",
