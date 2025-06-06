@@ -7,7 +7,6 @@
    * [Hello World](get_start/hello_world.md)
    * [长期运行](get_start/daemon.md)
    * [配置语法](get_start/full_config.md)
-* [输入插件(Input)](input/README.md)
    * [标准输入(Stdin)](input/stdin.md)
    * [读取文件(File)](input/file.md)
    * [读取网络数据(TCP)](input/tcp.md)
