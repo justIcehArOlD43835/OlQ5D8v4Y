@@ -23,7 +23,6 @@ enabled = true
 name = "javascript"
 enabled = true
 
-  [analyzers.meta]
   plugins = ["vue"]
 
 [[transformers]]
